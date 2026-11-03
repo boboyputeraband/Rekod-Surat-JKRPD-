@@ -161,9 +161,9 @@ export const AuthGate: React.FC<AuthGateProps> = ({ onLoginSuccess, lang }) => {
       <header className="h-[72px] bg-white border-b border-[#e2e8f0] flex items-center justify-between px-6 md:px-12">
         <div className="flex items-center gap-3.5">
           <img
-            src="/assets/aistudio/image_523558bb.png"
+            src="/assets/aistudio/wzou9m29o_996f9c22.webp"
             alt="Logo JKR Port Dickson"
-            className="w-11 h-11 rounded-xl object-cover shadow-md shrink-0 border border-slate-200 bg-white"
+            className="w-12 h-10 rounded-lg object-contain p-0.5 shadow-sm shrink-0 border border-slate-200 bg-white"
           />
           <div>
             <strong className="text-sm font-bold tracking-tight text-[#102c4d] block">

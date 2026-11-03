@@ -47,9 +47,9 @@ export const Sidebar: React.FC<SidebarProps> = ({
         <div className="flex items-center justify-between pb-6 border-b border-[#234768] mb-6">
           <div className="flex items-center gap-3">
             <img
-              src="/assets/aistudio/image_523558bb.png"
+              src="/assets/aistudio/wzou9m29o_996f9c22.webp"
               alt="Logo JKR Port Dickson"
-              className="w-11 h-11 rounded-xl object-cover shadow-inner shrink-0 border border-white/20 bg-white"
+              className="w-12 h-10 rounded-lg object-contain p-0.5 shadow-sm shrink-0 border border-white/20 bg-white"
             />
             <div>
               <strong className="text-white text-base font-bold leading-tight block">
