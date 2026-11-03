@@ -1,0 +1,6 @@
+{
+  "name": "e-Surat Jalan JKR Port Dickson",
+  "description": "Sistem Rekod dan Pemantauan Surat Rasmi Bahagian Jalan, JKR Port Dickson. Pengurusan pendaftaran surat masuk, minit arahan Jurutera Jalan, agihan pegawai dan pemantauan tindakan 48 jam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
